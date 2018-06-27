@@ -1,12 +1,12 @@
 # Project Title
 
 rental-property-cash-flow
-s
+
 ## Getting Started
 
 App that will implement management of finances for rental property across several owners. This app is implemented using the Spring Framework
 and provides a REST API interface and persists underlying data in either derby db (sql) or mongo (nosql) formats. If derby is used, the DB
-will be running internal to the Spring application and gets wipped out when the Server restarts. Mongo is persisted on local disk and must
+will be running internal to the Spring application and gets whipped out when the Server restarts. Mongo is persisted on local disk and must
 be started externally (mongod).
 
 ### Prerequisites
